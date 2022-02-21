@@ -34,6 +34,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+~~~
 ### Home Page:
 <!DOCTYPE html>
 <html lang="en">
@@ -623,7 +624,7 @@ Publish the website in the given URL.
 
 </body>
 </html>
-
+~~~
 
 ## OUTPUT:
 home page:
